@@ -1,0 +1,7 @@
+@CHARSET "utf-8";
+.impowerBox .qrcode {width:210px;margin-top:0; margin-left:20px;}
+.impowerBox .title {display: none;}
+.impowerBox .info {width: 300px; float:left;margin-left:-20px;}
+.status_icon {display：none}
+.impowerBox .status {text-align: left; }
+.wrp_code{ float:left;}
